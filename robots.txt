@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reformaselpuerto.es/sitemap.xml
